@@ -2,7 +2,7 @@
 
 This repository contains PennyLane notebook solutions converted from certain notebooks in the [QWorld Silver Course](https://gitlab.com/qworld/silver).
 
-Most notebooks were converted from **Qiskit to PennyLane**, and we also fixed some errors in `operator_cu.py` at D03. Additionally, we converted most of the **Cirq notebooks to PennyLane**.
+Most notebooks were converted from **Qiskit to PennyLane**, and we also fixed some errors in `operator_cu.py` at D03.
 
 ## Collaborators
 
@@ -12,4 +12,8 @@ Most notebooks were converted from **Qiskit to PennyLane**, and we also fixed so
 
 ## Mentor
 
-**Omid Hassasfar** — NITHECS
+**Omid Hassasfar** — NITHECS, Stellenbosch University
+
+## Supervisor
+
+**Prof. Francesco Petruccione** - NITHECS, Stellenbosch University
