@@ -1,4 +1,4 @@
-import pennylane as qml
+import pennylane as qp
 import numpy as np
 from operator_cu import Ux
 from iqft import iqft
@@ -7,7 +7,7 @@ def qpe(t, control, target, x, N):
     
     #Apply Hadamard to control qubits
     for q in control:
-        qml.Hadamard(wires=q)
+        qp.Hadamard(wires=q)
     
     #Apply CU gates
     for i in range(t):
