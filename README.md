@@ -12,7 +12,7 @@ Most notebooks were converted from **Qiskit to PennyLane**, and we also fixed so
 
 ## Mentor
 
-** Abbas (Omid) Hassasfar** — NITHECS, Stellenbosch University
+**Abbas (Omid) Hassasfar** — NITHECS, Stellenbosch University
 
 ## Supervisor
 
